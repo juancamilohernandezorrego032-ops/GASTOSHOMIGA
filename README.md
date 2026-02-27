@@ -1,1 +1,1 @@
-# GASTOSHOMIGA
+# GASTOSHOMIGAConfiguracion GitFlow lista
